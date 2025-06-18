@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints (optional)
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Hugging Face model cache
+.cache/
+huggingface/
+*.safetensors
+*.bin
+*.pth
+
+# Logs
+*.log
+
+# VSCode settings (if applicable)
+.vscode/
+
+# Environment & dependency files
+.env
+*.env
