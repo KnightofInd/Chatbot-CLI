@@ -14,6 +14,9 @@ A lightweight, terminal-based chatbot powered by Hugging Face Transformers. This
 
 ---
 
+DEMO VIDEO LINK ------> https://drive.google.com/file/d/1iEHIgIHnb_DMGrytEJTwfWwFEjNjYQ3l/view?usp=sharing
+
+
 ## 🧱 Project Structure
 
 ```bash
@@ -49,33 +52,6 @@ pip install transformers torch
 ▶️ Run the Chatbot
 
 python interface.py
-
-✅ Type your queries and press Enter
-❌ Type /exit to quit the chatbot
-
-💡 Sample Chat Interaction
-
-🤖 Welcome to Local CLI Chatbot! Type /exit to quit.
-
-User: Hello!
-Bot: Hello! How are you doing today?
-
-User: What is the capital of France?
-Bot: The capital of France is Paris.
-
-User: And of Germany?
-Bot: The capital of Germany is Berlin.
-
-User: /exit
-Bot: Exiting chatbot. Goodbye!
-⚠️ Note on Model Files
-The model microsoft/DialoGPT-small (~350MB) is not included in the repository to comply with GitHub's file limits.
-
-🧠 Hugging Face will automatically download and cache the model the first time you run the chatbot.
-
-No manual download needed!
-
-📹 Demo Video
 
 
 📦 Requirements
